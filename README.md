@@ -1,4 +1,4 @@
-# stm32f103-ili9341-spi
+# stm32f103-ili9341-spi DMA
 stm32f103 ili9341 spi
 
 https://www.youtube.com/watch?v=OenB7mMV-Uc
